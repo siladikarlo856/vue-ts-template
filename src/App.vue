@@ -1,5 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import DevExtremeButton from './components/DevExtremeButton.vue';
+</script>
 
-<template>Bare minimum Hello World!</template>
-
-<style scoped></style>
+<template>
+  <DevExtremeButton />
+</template>
