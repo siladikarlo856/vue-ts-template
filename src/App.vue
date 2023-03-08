@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import DevExtremeButton from './components/DevExtremeButton.vue';
+import SimpleTable from './views/SimpleTable/SimpleTable.vue';
 </script>
 
 <template>
-  <DevExtremeButton />
+  <SimpleTable />
 </template>
